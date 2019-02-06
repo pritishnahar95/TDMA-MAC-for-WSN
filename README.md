@@ -4,9 +4,9 @@
 <li>It also encompasses a cluster head rotation algorithm, based on energy parameters.</li>
 </ul>
 </br>
-See more : https://www.hindawi.com/journals/jcnc/2017/8921261/
+See more : https://www.hindawi.com/journals/jcnc/2017/8921261/<br />
 
 License :
-Copyright (c) 2016, Pritish Nahar, Rishabh Sethunathan.
-This file is released under Simplified BSD License.
+Copyright (c) 2016, Pritish Nahar, Rishabh Sethunathan.<br />
+This file is released under Simplified BSD License.<br />
 Go to http://www.opensource.org/licenses/BSD-3-Clause for full license details.
