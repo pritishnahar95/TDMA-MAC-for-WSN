@@ -7,8 +7,6 @@
 See more : https://www.hindawi.com/journals/jcnc/2017/8921261/
 
 License :
-Copyright (c) 2016, Pritish Nahar, Rishabh Sethunathan
-
+Copyright (c) 2016, Pritish Nahar, Rishabh Sethunathan.
 This file is released under Simplified BSD License.
-
 Go to http://www.opensource.org/licenses/BSD-3-Clause for full license details.
